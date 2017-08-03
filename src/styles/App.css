@@ -1,0 +1,10 @@
+/* Base Application Styles */
+.form-block {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 2px;
+  margin-right: 2px;
+  box-shadow: 0 3px 12px #888888;
+  border: black;
+  /*border: 2px groove;*/
+}
